@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/81/bf/e8/81bfe883a583ed4b5b03caed00105123.gif" height="auto"/></a>
+<a href="#"><img width="100%" height="auto" alt="gif" src="https://i.pinimg.com/originals/81/bf/e8/81bfe883a583ed4b5b03caed00105123.gif" height="auto"/></a>
 
 <h1 align="center" style="color: #fbd600">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center" style="color: #fbd600">I'm Crisse Soto, a creative Developer.</h3>
