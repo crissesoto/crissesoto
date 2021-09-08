@@ -1,4 +1,6 @@
-![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47jfg5qjtv9tb29rju1qc64ktp9s6lamvwns4kc7pq&rid=giphy.gif&ct=g)
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47jfg5qjtv9tb29rju1qc64ktp9s6lamvwns4kc7pq&rid=giphy.gif&ct=g" width="100%" height="auto" />
+
 
 <h1 align="center" style="color: #fbd600">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center" style="color: #fbd600">I'm Crisse Soto, a creative Developer.</h3>
