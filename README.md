@@ -9,7 +9,7 @@
 
 ## 👩🏾‍💻 About Me
 
-- 🔭 I’m currently working on **[SpotyMe](https://spotifyme-profile.herokuapp.com/)**
+- 🔭 I’m currently working on **[Bella Project](https://gsap-bella-project.netlify.app)**
 
 - 🌱 I’m currently learning **[Shaders for the Web](https://www.superhi.com/?r=Crisse)**
   
